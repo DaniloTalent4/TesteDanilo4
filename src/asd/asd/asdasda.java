@@ -42,7 +42,6 @@ public class asdasda extends DroidGap
         });
         
         super.appView.setLongClickable(false);
-        
     }
 }
 
